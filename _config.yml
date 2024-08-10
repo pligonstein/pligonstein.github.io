@@ -1,11 +1,11 @@
 theme: jekyll-theme-midnight
 title: Blog
-description: MEMEMEMEMEME
-show_github_link: false
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+github:
+  is_project_page: false
 include:
   - index.html
