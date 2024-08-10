@@ -1,26 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pligonstein - Personal Blog</title>
-</head>
-<body>
-    <header>
-        <h1>Plig</h1>
-        <p>Welcome to my personal blog where I share my thoughts and idea from various CTF challenges and personal experiences</p>
-    </header>
+---
+layout: default
+title: Home
+---
 
-    <div class="container">
-        <section>
-            <h2>About Me</h2>
-            <p>Hi! I'm Denis Vascuta, currently working as a Penetration Tester. I enjoy working on Active Directory exploitation and Digital Forensics. Through this blog, I share my experiences, insights, and personal achievements. Stay tuned for regular updates and feel free to connect with me!</p>
-        </section>
-
-        <div class="links">
-            <a href="blog.html" class="link-item">Read My Blog Posts</a>
-            <a href="achievements.html" class="link-item">Check Out My Achievements</a>
-        </div>
+<div class="home-content">
+    <h2>About Me</h2>
+    <p>Hi! I'm Denis Vascuta, currently working as a Penetration Tester. I enjoy working on Active Directory exploitation and Digital Forensics. Through this blog, I share my experiences, insights, and personal achievements. Stay tuned for regular updates and feel free to connect with me!</p>
+    
+    <div class="links">
+        <h3>Explore</h3>
+        <ul>
+            <li><a href="{{ site.baseurl }}/blog">Read My Blog Posts</a></li>
+            <li><a href="{{ site.baseurl }}/achievements">Check Out My Achievements</a></li>
+        </ul>
     </div>
-</body>
-</html>
+</div>
