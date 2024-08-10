@@ -1,84 +1,71 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007acc;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #007acc;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .links {
+            margin-top: 30px;
+        }
+        .link-item {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #007acc;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .link-item:hover {
+            background-color: #005f99;
+        }
+    </style>
+</head>
 <body>
-  <div class="personal-banner">
-    <div class="wrap">
-      <p class="icons">
-        {% if site.github_username %}
-        <a href="https://www.github.com/{{ site.github_username }}" analytics-on="click" analytics-event="outbound" analytics-label="github_profile">
-          <span class="icon-github"></span>
-        </a>
-        {% endif %} {% if site.twitter_username %}
-        <a href="https://www.twitter.com/{{ site.twitter_username }}" analytics-on="click" analytics-event="outbound" analytics-label="twitter_profile">
-          <span class="icon-twitter"></span>
-        </a>
-        {% endif %} {% if site.linkedin_username %}
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" analytics-on="click" analytics-event="outbound" analytics-label="linkedin_profile">
-          <span class="icon-linkedin"></span>
-        </a>
-        {% endif %}
-      </p>
-      <div class="brand">
-        <div class="brand-img">
-          <img src="//www.gravatar.com/avatar/692c58f37a3704944bd31c4cbcb287e7.png?s=150" class="img-profile"></div>
-        <div class="brand-name">
-          <h1>Denis Vascuta</h1>
-          <h3>Penetration Tester &amp; cybersecurity enthusiast</h3>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="nav nav-homepage">
-    <div class="wrap">
-      {% for page in site.pages %} {% if page.title and page.header and page.partial != 'true' %}
-      <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a> {% endif %} {% endfor %}
-    </div>
-  </div>
-  <div class="page-content">
-    <div class="wrap">
-      <div id="page-blog">
-        <h2 class="blog-title">Recent Posts</h2>
-        <div class="blog-read-more">
-          <a href="{{ '/blog/' | relative_url }}">See all posts...</a>
-        </div>
-        <div class="posts">
-          {% for post in site.posts limit:4 %}
-          {% if post.hidden != true %}
-          <div class="post">
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              <h1 class="font-main">{{ post.title }}</h1>
-            </a>
-            {% if post.subtitle %}
-            <h2>{{ post.subtitle }}</h2>
-            <div class="meta">
-              <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-            </div>
-            {% endif %} {% if post.hero %}
-            <div class="postimage hero {{post.hero.classes}}">
-              <a href="{{ post.url | relative_url }}">
-                {% if post.hero.asset_path %}
-                  <img src="{{ post.hero.asset_path | relative_url }}" alt="{{post.hero.description}}" />
-                {% else %}
-                  <img src="{{ post.hero.url }}" alt="{{ post.hero.description }}" />
-                {% endif %}
-              </a>
-            </div>
-            {% endif %}
-            <div>
-              {% if post.excerpt %} {{ post.excerpt }} {% else %} {{ post.content | truncatewords: 75 }} {% endif %}
-            </div>
-          </div>
-          {% endif %}
-          {% endfor %}
-        </div>
-        <h3>
-          <a href="{{ '/blog/' | relative_url }}">See more posts...</a>
-        </h3>
-      </div>
-    </div>
-  </div>
-  {% include footer.html %}
+    <header>
+        <h1>Plig</h1>
+        <p>Welcome to my personal blog where I share my thoughts and idea from various CTF challenges and personal experiences</p>
+    </header>
 
+    <div class="container">
+        <section>
+            <h2>About Me</h2>
+            <p>Hi! I'm Denis Vascuta, currently working as a Penetration Tester. I enjoy working on Active Directory exploitation and Digital Forensics. Through this blog, I share my experiences, insights, and personal achievements. Stay tuned for regular updates and feel free to connect with me!</p>
+        </section>
+
+        <div class="links">
+            <a href="blog.html" class="link-item">Read My Blog Posts</a>
+            <a href="achievements.html" class="link-item">Check Out My Achievements</a>
+        </div>
+    </div>
+</body>
 </html>
