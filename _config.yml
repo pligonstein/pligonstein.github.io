@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
+title: Blog
 plugins:
   - jekyll-relative-links
 relative_links:
