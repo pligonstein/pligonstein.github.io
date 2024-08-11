@@ -6,7 +6,7 @@ permalink: /achievements/
 
 # **My Achievements** 🏆
 
-<br/><br/>
+---
 
 ## Certifications 📃
 
