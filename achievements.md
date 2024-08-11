@@ -36,3 +36,8 @@ permalink: /achievements/
 - **CyberHackDays 24 - 3rd place(Teams, but played solo 😎)** 🥉
 - **ROCSC 24 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
 - **ECSC 24 - European Cyber Security Challenge ~ ?th place**
+
+## Presentations 👨‍🏫
+
+- **Unbreakable Romania 24 Mentorship** -> [Link Here](https://www.youtube.com/watch?v=RkZTLqT3w7g&t=3244s)
+- **ProTV(Promoted the National Cybersecurity Competition)** -> [Link Here](https://stirileprotv.ro/stiri/ilikeit/tinerii-pasionati-de-securitate-cibernetica-pot-participa-gratuit-la-un-concurs-de-gasit-vulnerabilitati-premii-in-bani.html)
