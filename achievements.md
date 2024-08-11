@@ -4,7 +4,7 @@ title: Achievements
 permalink: /achievements/
 ---
 
-# My Achievements 🏆
+# **My Achievements** 🏆
 
 <br/><br/>
 
