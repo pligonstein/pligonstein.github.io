@@ -7,3 +7,6 @@ relative_links:
   collections: true
 include:
   - index.html
+  - blog.md
+  - achievements.md
+  - _posts
