@@ -8,6 +8,10 @@ permalink: /achievements/
 
 ---
 
+## Work Experience 🖥️
+
+- **Junior Penetration Tester - Fort (sep. 22 -> present)**
+
 ## Certifications 📃
 
 - **eJPT(eLearnSecurity Junior Penetration Tester) v1** - Received in 2022. -> [See here](https://certs.ine.com/afd7199d-a214-44f8-a7f1-382f3e32cc42)
