@@ -6,11 +6,6 @@ permalink: /achievements/
 
 # My Achievements 🏆
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
 ## Certifications 📃
 - **eJPT(eLearnSecurity Junior Penetration Tester) v1** - Received in 2022. -> [See here](https://certs.ine.com/afd7199d-a214-44f8-a7f1-382f3e32cc42)
 - **API Penetration Testing(APISec University)** - Received in 2023. -> [See here](https://www.credly.com/badges/d9b0dbc0-8ca2-4725-93aa-ccb093a2624d/public_url)
