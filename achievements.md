@@ -17,7 +17,9 @@ permalink: /achievements/
 - **BTL1(Blue Team Level 1)** - Received in 2023 -> [See here](https://elearning.securityblue.team/home/certificate/330256872)
 - **PJPT(Practical Junior Penetration Tester)** - Received in 2024 -> [See here](https://certified.tcm-sec.com/d2bbf8a0-e60e-4a99-96ad-136119e856b7)
 
-<br/><br/>
 
 ## Awards 🏅
 
+- **Unbreakable Romania(Individual) ~ 2nd place at high school division**  🥈
+- **Unbreakable Romania Teams ~ 1st place at high school division** 🥇
+- **ROCSC 22 - Romanian Cyber Security Challenge finalist**
