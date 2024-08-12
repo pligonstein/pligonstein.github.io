@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-title: <a href='{{ site.baseurl }}/'>Blog</a>
+title: <a href='/'>Blog</a>
 plugins:
   - jekyll-relative-links
 relative_links:
