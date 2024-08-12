@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-title: "<a href='/'><img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/af215e5fff666eac8ced013e66f9a6c1.gif' style='height: 24px;'></a>"
+title: "<a href='/'><img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/af215e5fff666eac8ced013e66f9a6c1.gif' style='height: 40px;'></a>"
 plugins:
   - jekyll-relative-links
 relative_links:
