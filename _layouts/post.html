@@ -22,6 +22,14 @@
 
     <div class="wrapper">
 
+      <header>
+        <div id="site-title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
+        <hr>
+      </header>
+
       <section>
         <div id="title">
           <h1>{{ page.title }}</h1>
