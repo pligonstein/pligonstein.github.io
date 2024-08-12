@@ -4,6 +4,8 @@ title: "
     <a href='/' style='font-size: 24px; font-weight: bold; color: #c1c1c1; text-decoration: none;'>Home</a>
     <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover;'>
 </div>"
+sass:
+  style: compressed
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,3 +16,4 @@ include:
   - blog.md
   - achievements.md
   - _posts
+  - assets/css/style.scss
