@@ -2,7 +2,7 @@ theme: jekyll-theme-midnight
 title: "
 <div style='display: flex; align-items: center; justify-content: space-between;'>
     <a href='/' style='font-size: 24px; font-weight: bold; color: #c1c1c1; text-decoration: none;'>Denis Vascuta</a>
-    <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/af215e5fff666eac8ced013e66f9a6c1.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover;'>
+    <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover;'>
 </div>"
 plugins:
   - jekyll-relative-links
