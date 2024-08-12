@@ -17,3 +17,5 @@ include:
   - achievements.md
   - _posts
   - assets/css/style.scss
+  - _layouts/default.html
+  - _layouts/post.html
