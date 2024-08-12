@@ -23,13 +23,24 @@ permalink: /achievements/
 
 ## Awards 🏅
 
+### 2021
+
 - **Unbreakable Romania(Individual) 21 ~ 2nd place at high school division**  🥈
+
+### 2022
+
 - **Unbreakable Romania(Teams) 22 ~ 1st place at high school division** 🥇
 - **ROCSC 22 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
 - **ECSC 22 - European Cyber Security Challenge ~ 8th place**
+
+### 2023
+
 - **Unbreakable Romania(Teams) 23 ~ 3rd place at high school division** 🥉
 - **ROCSC 23 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
 - **Defcamp 23 finalist(Teams)**
+
+### 2024
+
 - **Applied Informatics Olympiad ~ AcadNet Computers 11-12th grade - silver** 🥈
 - **Cybersecurity Olympiad - Honorable Mention(not my proudest achievement 😔)**
 - **Unbreakable Romania(Teams) 24 ~ 1st place overall(both high school and general division)** 🥇
