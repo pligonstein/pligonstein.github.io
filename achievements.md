@@ -37,7 +37,7 @@ permalink: /achievements/
 
 - **Unbreakable Romania(Teams) 23 ~ 3rd place at high school division** 🥉
 - **ROCSC 23 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
-- **Defcamp 23 finalist(Teams)**
+- **Defcamp 23 finalist(2nd place Romania; 4th place overall)**
 
 ### **2024**
 
