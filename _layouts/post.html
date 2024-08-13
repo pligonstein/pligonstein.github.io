@@ -22,24 +22,21 @@
 
     <div class="wrapper">
 
-      <!-- Header with Home Link and Logo -->
       <header>
-        <div style='display: flex; align-items: center; justify-content: space-between;'>
-          <a href='/' style='font-size: 24px; font-weight: bold; color: #c1c1c1; text-decoration: none;'>Home</a>
-          <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover;'>
-        </div>
+        {{ page.title | markdownify }}
       </header>
 
       <hr>
 
       <section>
         <div id="post-title">
-          <h1>{{ page.title }}</h1>
+          <h1>{{ page.post_title }}</h1>
           <p>{{ page.date | date: "%B %d, %Y" }}</p>
           <hr>
         </div>
 
         {{ content }}
+
       </section>
 
       <footer style="display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; margin-top: 20px;">
