@@ -3,38 +3,45 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     {% include head-custom.html %}
-    {% seo %}
   </head>
   <body>
 
     <div class="wrapper">
 
-      <!-- Site Header -->
+      <!-- Header with Home Link and Logo -->
       <header>
-        <div style="display: flex; align-items: center; justify-content: space-between;">
-          <a href="/" style="font-size: 24px; font-weight: bold; color: #c1c1c1; text-decoration: none;">Home</a>
-          <img src="https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif" alt="Logo" style="height: 48px; width: 48px; border-radius: 50%; object-fit: cover;">
+        <div style='display: flex; align-items: center; justify-content: space-between;'>
+          <a href='/' style='font-size: 24px; font-weight: bold; color: #c1c1c1; text-decoration: none;'>Home</a>
+          <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover;'>
         </div>
       </header>
 
-      <!-- Divider -->
       <hr>
 
-      <!-- Post Content -->
       <section>
         <div id="post-title">
           <h1>{{ page.title }}</h1>
           <p>{{ page.date | date: "%B %d, %Y" }}</p>
           <hr>
         </div>
+
         {{ content }}
       </section>
 
-      <!-- Footer -->
       <footer style="display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; margin-top: 20px;">
         <div class="footer-text">
           <p style="margin: 0;">2024 © Plig's blog</p>
