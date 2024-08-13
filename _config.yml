@@ -1,9 +1,5 @@
 theme: jekyll-theme-midnight
-title: "
-<div style='display: flex; align-items: center; justify-content: space-between;'>
-    <a href='/' style='font-size: 24px; font-weight: bold; color: #c1c1c1; text-decoration: none;'>Home</a>
-    <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover;'>
-</div>"
+title: "Plig's Blog"
 sass:
   style: compressed
 plugins:
