@@ -23,9 +23,9 @@
     <div class="wrapper">
 
       <header>
-        <div style='display: flex; align-items: center; justify-content: space-between;'>
-          <a href='/' style='font-size: 24px; font-weight: bold; color: #c1c1c1; text-decoration: none;'>Home</a>
-          <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover;'>
+        <div style='display: flex; align-items: center; justify-content: space-between; margin-top: -30px;'>
+          <a href='/' style='font-size: 24px; font-weight: normal; color: #c1c1c1; text-decoration: none;'>Home</a>
+          <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover; margin-top: -30px;'>
         </div>
       </header>
 
@@ -34,6 +34,9 @@
       <section>
         <div id="post-title">
           <h1>{{ page.title }}</h1>
+          <hr>
+          <h2>{{ page.post_title }}</h2>
+          <p>{{ page.date | date: "%B %d, %Y" }}</p>
           <hr>
         </div>
 
