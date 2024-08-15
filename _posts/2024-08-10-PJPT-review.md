@@ -5,9 +5,11 @@ title: "
     <a href='/' style='font-size: 28px; font-weight: normal; color: #c1c1c1; text-decoration: none; margin-top: -50px;'>Home</a>
     <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover; margin-top: -50px;'>
 </div>"
-post_title: "Honest PJPT Review"
+post_title: "PJPT - entry-level AD cert?"
 date: 2024-08-10
 categories: blog
 ---
 
-## PJPT
+## Introduction
+
+![PJPT Cert Image](/images/_posts/PJPT.png)
