@@ -10,7 +10,7 @@ date: 2024-08-10
 categories: blog
 ---
 
-## **Introduction**
+## Introduction
 
 ![PJPT Cert Image](/images/_posts/PJPT.png)
 
