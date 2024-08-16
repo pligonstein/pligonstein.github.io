@@ -10,6 +10,4 @@ date: 2024-08-16
 categories: blog
 ---
 
-<p></p>
-
 ## Quick Overview
