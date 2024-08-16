@@ -17,7 +17,6 @@ permalink: /blog/
       </ul>
     {% endif %}
     <h2>{{ post_year }}</h2>
-    <hr>
     <ul>
     {% assign current_year = post_year %}
   {% endif %}
