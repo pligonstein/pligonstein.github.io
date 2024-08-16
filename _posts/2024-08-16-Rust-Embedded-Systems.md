@@ -46,8 +46,6 @@ For those challenges I had a pico debug probe and a pico explorer that I had dif
 
 ### **First Task**
 
-<p></p>
-
 > Connect a green LED to GP4 and a red LED to GP5. Blink the LEDs consecutively, for 1 second each (i.e. when one LED is on, the other is off).
 
 This one was fairly easy, we can just use GPIO to program the LED after we set it up on the breadboard and connect the pins accordingly. First, let's go through each part of the code:
