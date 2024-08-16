@@ -4,7 +4,7 @@ title: Posts
 permalink: /blog/
 ---
 
-<h1><strong>Blog Posts</strong></h1>
+<h1><strong>Blog Posts ✍️</strong></h1>
 <hr>
 <br>
 
