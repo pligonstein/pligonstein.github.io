@@ -44,6 +44,8 @@ That's because Embassy-rs works in an asynchronous way and so we need to define 
 
 For those challenges I had a pico debug probe and a pico explorer that I had different tasks for.
 
+#### First Task
+
 > Connect a green LED to GP4 and a red LED to GP5. Blink the LEDs consecutively, for 1 second each (i.e. when one LED is on, the other is off).
 
 This one was fairly easy, we can just use GPIO to program the LED after we set it up on the breadboard and connect the pins accordingly. First, let's go through each part of the code:
@@ -78,3 +80,4 @@ async fn main(_spawner: Spawner) {
 ```
 
 This is the `main` function. The most important part consists in defining the `Output` for each pin and then the `loop` is needed, because as explained earlier the MCU does not run any operating system so there is nothing to return.
+
