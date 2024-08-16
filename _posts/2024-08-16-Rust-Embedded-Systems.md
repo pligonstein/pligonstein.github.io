@@ -44,7 +44,7 @@ That's because Embassy-rs works in an asynchronous way and so we need to define 
 
 For those challenges I had a pico debug probe and a pico explorer that I had different tasks for.
 
-#### First Task
+- ### First Task
 
 > Connect a green LED to GP4 and a red LED to GP5. Blink the LEDs consecutively, for 1 second each (i.e. when one LED is on, the other is off).
 
