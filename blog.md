@@ -6,7 +6,6 @@ permalink: /blog/
 
 <h1><strong>Blog Posts ✍️</strong></h1>
 <hr>
-<br>
 
 {% assign current_year = "none" %}
 
