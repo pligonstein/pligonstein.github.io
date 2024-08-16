@@ -21,7 +21,6 @@ In this article I'll be covering Rust in Embedded Systems, more specifically GPI
 We first need to define the entrypoint and bootloader so we'll specify it like this:
 
 ```rust
-
 use embassy_executor::Spawner;
 
 #[embassy_executor::main]
@@ -35,7 +34,6 @@ The `init` function takes care of all the peripheral initializations so that we 
 We also have to specify:
 
 ```rust
-
 #![no_main]
 #![no_std]
 ```
@@ -51,7 +49,6 @@ For those challenges I had a pico debug probe and a pico explorer that I had dif
 This one was fairly easy, we can just use GPIO to program the LED after we set it up on the breadboard and connect the pins accordingly. First, let's go through each part of the code:
 
 ```rust
-
 #![no_main]
 #![no_std]
 
@@ -64,7 +61,6 @@ use {defmt_rtt as _, panic_probe as _};
 The first two lines were explained a little earlier, so there is no need to explain them again. Then, we import all the functions from the crates that we need. I'll be explaining what each function does:
 
 ```rust
-
 #[embassy_executor::main]
 async fn main(_spawner: Spawner) {
     let peripherals = embassy_rp::init(Default::default()); // Defines the peripherals
