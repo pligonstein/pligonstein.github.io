@@ -60,7 +60,7 @@ use embassy_time::Timer;
 use {defmt_rtt as _, panic_probe as _};
 ```
 
-The first two lines were explained a little earlier, so there is no need to explain them again. Then, we import all the functions from the crates that we need. I'll be explaining what each function does:
+The first two lines were explained a little earlier, so there is no need to explain them again. Then, we import all the functions from the crates that we need. Also, keep in mind that the last line is a must in your code and that it doesn't run without it as it handles the faults and detects both Rust panics as well as HardFaults raised by the Cortex-M processor. I'll be explaining what each function does:
 
 ```rust
 #[embassy_executor::main]
@@ -79,5 +79,9 @@ async fn main(_spawner: Spawner) {
 }
 ```
 
-This is the `main` function. The most important part consists in defining the `Output` for each pin and then the `loop` is needed, because as explained earlier the MCU does not run any operating system so there is nothing to return.
+This is the `main` function. After we initialize the peripherals, we define each pin for the LEDs and the `Level` at the beginning, meaning if it's turned on or off at the start. The most important part consists in defining the `Output` for each pin and then the `loop` is needed, because as explained earlier the MCU does not run any operating system so there is nothing to return. Afterwards, we set each pin to be turned on and off for one second each.
+
+### **Second Task**
+
+> Connect the RGB LED to GP0, GP1, and GP2. Write a program that increases the LED's intensity with 10% each second.
 
