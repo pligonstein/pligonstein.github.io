@@ -60,7 +60,11 @@ use embassy_time::Timer;
 use {defmt_rtt as _, panic_probe as _};
 ```
 
-The first two lines were explained a little earlier, so there is no need to explain them again. Then, we import all the functions from the crates that we need. Also, keep in mind that the last line is a must in your code and that it doesn't run without it as it handles the faults and detects both Rust panics as well as HardFaults raised by the Cortex-M processor. I'll be explaining what each function does:
+The first two lines were explained a little earlier, so there is no need to explain them again. Then, we import all the functions from the crates that we need. 
+
+> Also, keep in mind that the last line is a must in your code and that it doesn't run without it as it handles the faults and detects both Rust panics as well as HardFaults raised by the Cortex-M processor.
+
+I'll be explaining what each function does:
 
 ```rust
 #[embassy_executor::main]
