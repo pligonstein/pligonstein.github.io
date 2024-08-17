@@ -110,7 +110,11 @@ async fn main(_spawner: Spawner) {
     config.top = 0x8000; // Defining the top value
     config.compare_a = 0x8000; // Defining the starting value
     config.compare_b = 0x8000;
+```
 
+Here, we define the peripherals, we intialize the defult PWM config, then we go ahead and also define the ```config.top``` and each of the compares for the duty cycle. In our case, 0x8000 is predefined value for our LED, so we also then specify the compare values for each of the pins. Think of it like this, the top value means the value for which the light is turned off and the compare value is the value for which the light is either on or off(e.g if it would be 0, it would be turned on at the maximum capacity).
+
+```rust
     let mut pwm_green_red = Pwm::new_output_ab( // Defining the PWM on pin 0 and 1
         peripherals.PWM_SLICE0,
         peripherals.PIN_0,
@@ -125,4 +129,20 @@ async fn main(_spawner: Spawner) {
     );
 ```
 
-Here, we define the peripherals, we intialize the defult PWM config, and then we go ahead and also define the ```config.top``` and each of the compares.
+In here, we initialize each of the pins for each led. I think the table below will be of help for this.
+
+![image](https://github.com/user-attachments/assets/212b6aa8-743c-451f-8367-b8b8cd385594)
+
+```rust
+    loop {
+            config.compare_a -= (config.top as f32 * 0.1) as u16; 
+            pwm_green_red.set_config(&config);
+            
+            config.compare_b -= (config.top as f32 * 0.1) as u16;
+            pin_blue.set_config(&config);
+            Timer::after_secs(1).await;
+        }
+}
+```
+
+The last part of the code, we just loop through, turning on each of the LEDs 10% more each second, by decreasing the maximum value(as explained earlier, they were turned off earlier).
