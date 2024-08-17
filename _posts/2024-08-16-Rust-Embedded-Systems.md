@@ -99,4 +99,30 @@ use embassy_rp::pwm::{Config as ConfigPwm, Pwm};
 use {defmt_rtt as _, panic_probe as _};
 ```
 
-We start off as usual, we import our crates
+We start off as usual, we import our crates and the panic handler.
+
+```rust
+#[embassy_executor::main]
+async fn main(_spawner: Spawner) {
+    let peripherals = embassy_rp::init(Default::default());
+    let mut config: ConfigPwm = Default::default(); // Defining the PWM configuration
+
+    config.top = 0x8000; // Defining the top value
+    config.compare_a = 0x8000; // Defining the starting value
+    config.compare_b = 0x8000;
+
+    let mut pwm_green_red = Pwm::new_output_ab( // Defining the PWM on pin 0 and 1
+        peripherals.PWM_SLICE0,
+        peripherals.PIN_0,
+        peripherals.PIN_1,
+        config.clone()
+        );
+
+    let mut pin_blue = Pwm::new_output_a( // Defining the PWM on pin 2
+    peripherals.PWM_SLICE1,
+    peripherals.PIN_2,
+    config.clone()
+    );
+```
+
+Here, we define the peripherals, we intialize the defult PWM config, and then we go ahead and also define the ```config.top``` and each of the compares.
