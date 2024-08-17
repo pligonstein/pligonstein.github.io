@@ -29,9 +29,7 @@ async fn main(_spawner: Spawner) {
 }
 ```
 
-The `init` function takes care of all the peripheral initializations so that we don't need to worry about all these.
-
-We also have to specify:
+The `init` function takes care of all the peripheral initializations so that we don't need to worry about all these. We also have to specify:
 
 ```rust
 #![no_main]
