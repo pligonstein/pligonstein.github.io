@@ -145,4 +145,4 @@ In here, we initialize each of the pins for each led. I think the table below wi
 }
 ```
 
-The last part of the code, we just loop through, turning on each of the LEDs 10% more each second, by decreasing the maximum value(as explained earlier, they were turned off earlier).
+The last part of the code, we just loop through, turning on each of the LEDs 10% more each second, by decreasing the maximum value(as explained earlier, they were turned off at the beginning).
