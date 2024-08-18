@@ -42,7 +42,7 @@ That's because Embassy-rs works in an asynchronous way and so we need to define 
 
 ## Challenges
 
-For those challenges I had a Pimoroni Pico Explorer Base, a Raspberry Pi Pico that I used to turn the board on and a Pico Probe Debug for programming.
+For those challenges I had a Pimoroni Pico Explorer Base, a Raspberry Pi Pico that I used to turn the board on and a Pico Probe Debug for flashing.
 
 ### **First Task**
 
