@@ -12,7 +12,7 @@ categories: blog
 
 ## Quick Overview
 
-In this article I'll be covering Rust in Embedded Systems, more specifically GPIO(General Purpose Input Output) and PWM(Pulse Width Modulation) protocols. I'll be talking about how to implement those in Rust, using Embassy and I'll be also going through two different challenges that I had to go through recently in a workshop.
+In this article I'll be covering Rust in Embedded Systems, more specifically GPIO(General Purpose Input Output) and PWM(Pulse Width Modulation) protocols. I'll be talking about how to implement those in Rust, using Embassy and I'll also be going through two different challenges that I had faced recently in a workshop.
 
 > Embassy-rs is short for Embassy Asynchronous Rust
 
