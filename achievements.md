@@ -8,11 +8,11 @@ permalink: /achievements/
 
 ---
 
-## Work Experience
+## Work Experience 🖥️
 
 - **Junior Penetration Tester - Fort (sep. 2022 -> present)**
 
-## Certifications
+## Certifications 📃
 
 - **eJPT(eLearnSecurity Junior Penetration Tester) v1** - Received in 2022. -> [See here](https://certs.ine.com/afd7199d-a214-44f8-a7f1-382f3e32cc42)
 - **API Penetration Testing(APISec University)** - Received in 2023. -> [See here](https://www.credly.com/badges/d9b0dbc0-8ca2-4725-93aa-ccb093a2624d/public_url)
@@ -21,7 +21,7 @@ permalink: /achievements/
 - **BTL1(Blue Team Level 1)** - Received in 2023 -> [See here](https://elearning.securityblue.team/home/certificate/330256872)
 - **PJPT(Practical Junior Penetration Tester)** - Received in 2024 -> [See here](https://certified.tcm-sec.com/d2bbf8a0-e60e-4a99-96ad-136119e856b7)
 
-## Awards
+## Awards 🏅
 
 ### **2021**
 
@@ -48,7 +48,7 @@ permalink: /achievements/
 - **ROCSC 24 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
 - **ECSC 24 - European Cyber Security Challenge ~ ?th place**
 
-## Presentations
+## Presentations 👨‍🏫
 
 - **Unbreakable Romania 24 Mentorship** -> [Link Here](https://www.youtube.com/watch?v=RkZTLqT3w7g)
 - **ProTV(Promoted the National Cybersecurity Competition)** -> [Link Here](https://stirileprotv.ro/stiri/ilikeit/tinerii-pasionati-de-securitate-cibernetica-pot-participa-gratuit-la-un-concurs-de-gasit-vulnerabilitati-premii-in-bani.html)
