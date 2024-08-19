@@ -193,4 +193,4 @@ let color = Rgb565::new(255, 255, 0);
 
 The Point function only specifies the position where the string is located on the LCD. That's all for this challenge, the hardest part is just understanding and managing to write the controller for the SPI yourself.
 
-![LCD Challenge Image 1](/images/_posts/LCD-chall-2-pic1.jpeg)
+![LCD Challenge Image](/images/_posts/LCD-chall-2-pic2.jpeg)
