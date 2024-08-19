@@ -97,6 +97,16 @@ Now for the rest of the code it's pretty much the standard:
 }
 ```
 
+![EEPROM Challenge Image 1](/images/_posts/EEPROM-chall-1-pic1.jpeg)
+
+Here's the pinout for the memory if you're curios.
+
+![EEPROM Challenge Image 2](/images/_posts/EEPROM-chall-1-pic.jpeg)
+
+And here's a more detailed picture with the model of the EEPROM.
+
+![EEPROM Challenge Image 3](/images/_posts/EEPROM-chall-1-pic3.jpeg)
+
 ### **Second task**
 
 > Using the embedded_graphics crate, write a centered message of "Hello, IPW!" to the LCD.
