@@ -22,8 +22,6 @@ In this tutorial, I'll be taking over where we left off in the previous post. I'
 
 ### **First Task**
 
-<p></p>
-
 > Write some bytes to the EEPROM.
 
 We are going to use I2C to write to the memory and in order to do that we have to connect the SDA and SCL pins correctly, as well as the others.
@@ -100,8 +98,6 @@ Now for the rest of the code it's pretty much the standard:
 ```
 
 ### **Second task**
-
-<p></p>
 
 > Using the embedded_graphics crate, write a centered message of "Hello, IPW!" to the LCD.
 
