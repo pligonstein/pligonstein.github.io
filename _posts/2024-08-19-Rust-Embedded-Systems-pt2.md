@@ -101,7 +101,7 @@ Now for the rest of the code it's pretty much the standard:
 
 Here's the pinout for the memory if you're curios.
 
-![EEPROM Challenge Image 2](/images/_posts/EEPROM-chall-1-pic.jpeg)
+![EEPROM Challenge Image 2](/images/_posts/EEPROM-chall-1-pic2.jpeg)
 
 And here's a more detailed picture with the model of the EEPROM.
 
