@@ -85,7 +85,7 @@ async fn main(_spawner: Spawner) {
 
 This is the `main` function. After we initialize the peripherals, we define each pin for the LEDs and the level at the beginning, meaning if it's turned on or off at the start. The most important part consists in defining the output for each pin and then the loop is needed, because as explained earlier the MCU does not run any operating system so there is nothing to return. Afterwards, we set each pin to be turned on and off for one second each.
 
-![GPIO Challenge Image](/images/_posts/GPIO-chall-1.jpeg)
+![GPIO Challenge Image](/images/_posts/GPIO-chall-1-pic1.jpeg)
 
 ### **Second Task**
 
