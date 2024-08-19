@@ -150,7 +150,7 @@ async fn main(_spawner: Spawner) {
     display.clear(embedded_graphics::pixelcolor::RgbColor::BLACK).unwrap();
 ```
 
-I'll leave a link [here](https://dontpad.com/pligblog) with the code to the display function used in the code. Also, the crates + functions use are:
+I'll leave a link [here](https://dontpad.com/pligblog) with the code to the display function used in the code. Also, the crates + functions used are:
 
 ```rust
 use cyw43::new;
