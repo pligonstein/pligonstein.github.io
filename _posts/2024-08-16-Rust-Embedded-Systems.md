@@ -48,7 +48,7 @@ For those challenges I had a Pimoroni Pico Explorer Base, a Raspberry Pi Pico th
 
 > Connect a green LED to GP4 and a red LED to GP5. Blink the LEDs consecutively, for 1 second each (i.e. when one LED is on, the other is off).
 
-This one was fairly easy, we can just use GPIO to program the LED after we set it up on the breadboard and connect the pins accordingly. First, let's go through each part of the code:
+This one was fairly easy, we can just use GPIO(General Purpose Input Output) to program the LEDs after we set them up on the breadboard and connect the pins accordingly. First, let's go through each part of the code:
 
 ```rust
 #![no_main]
@@ -88,6 +88,8 @@ This is the `main` function. After we initialize the peripherals, we define each
 ### **Second Task**
 
 > Connect the RGB LED to GP0, GP1, and GP2. Write a program that increases the LED's intensity with 10% each second.
+
+For this task we are going to make use of PWM(Pulse Width Modulation) in order to program the LED's intensity.
 
 ```rust
 #![no_std]
