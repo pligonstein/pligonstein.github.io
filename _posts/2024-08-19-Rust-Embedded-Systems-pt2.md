@@ -95,7 +95,7 @@ Now for the rest of the code it's pretty much the standard:
 }
 ```
 
-## **Second task**
+### **Second task**
 
 > Using the embedded_graphics crate, write a centered message of "Hello, IPW!" to the LCD.
 
