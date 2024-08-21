@@ -12,7 +12,7 @@ categories: blog
 
 ## Quick Overview
 
-For the last part of this series, I'll present you with a small MiniGame that I had to program using all the information that we have accumulated so far. From GPIO, PWM, all the way to writing some text on the LCD using SPI. Let's get right into the challenge.
+For the last part of this series, I'll present you with a small Memory Game that I had to program using all the information that we have accumulated so far. From GPIO, PWM, all the way to writing some text on the LCD using SPI. Let's get right into the challenge.
 
 ## Challenge
 
