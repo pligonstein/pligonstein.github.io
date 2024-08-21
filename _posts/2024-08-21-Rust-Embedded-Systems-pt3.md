@@ -6,7 +6,7 @@ title: "
     <img src='https://raw.githubusercontent.com/pligonstein/pligonstein.github.io/main/images/logo.gif' alt='Logo' style='height: 48px; width: 48px; border-radius: 50%; object-fit: cover; margin-top: -50px;'>
 </div>"
 post_title: "Rust in Embedded Systems - MiniGame"
-date: 2024-08-20
+date: 2024-08-21
 categories: blog
 ---
 
