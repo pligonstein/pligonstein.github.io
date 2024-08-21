@@ -41,7 +41,7 @@ permalink: /achievements/
 
 ### **2024**
 
-- **Applied Informatics Olympiad ~ AcadNet Computers 11-12th grade - silver** 🥈
+- **Applied Informatics Olympiad ~ AcadNet Computers section - silver** 🥈
 - **Cybersecurity Olympiad - Honorable Mention(not my proudest achievement 😔)**
 - **Unbreakable Romania(Teams) 24 ~ 1st place overall(both high school and general division)** 🥇
 - **CyberHackDays 24 - 3rd place(Teams, but played solo 😎)** 🥉
