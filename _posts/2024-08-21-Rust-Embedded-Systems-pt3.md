@@ -234,4 +234,4 @@ let mut res: heapless::String<100> = heapless::String::new();
 }
 ```
 
-I really hope you enjoyed this small series of tutorial cause I sure did, and feel free to connect with me if you got any questions. See you in the next post! 👋
+I really hope you enjoyed this small series of tutorials, cause I sure did. Feel free to connect with me if you got any questions. See you in the next post! 👋
