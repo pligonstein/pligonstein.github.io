@@ -218,7 +218,7 @@ For our last part, we'll add the checker for the sequence and we'll write to the
         Timer::after_secs(1).await;
 ```
 
-Now, a little surprise, I also added a smalll part at the end of each that mentions our current and highest score.
+Now, a little surprise, I also added a small piece of code at the end of each round that mentions our current and highest score.
 
 > Because MCUs don't have heap, we'll have use the library heapless that just basically writes the string we want to print onto the stack.
 
