@@ -10,7 +10,7 @@ permalink: /achievements/
 
 ## Work Experience 🖥️
 
-- **Junior Penetration Tester - Fort (sep. 2022 -> present)**
+- **Junior Penetration Tester - Fort (sep. 2022 -> sep. 2024)**
 
 ## Certifications 📃
 
