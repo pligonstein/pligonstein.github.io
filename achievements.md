@@ -46,7 +46,7 @@ permalink: /achievements/
 - **Unbreakable Romania(Teams) 24 ~ 1st place overall(both high school and general division)** 🥇
 - **CyberHackDays 24 - 3rd place(Teams, but played solo 😎)** 🥉
 - **ROCSC 24 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
-- **ECSC 24 - European Cyber Security Challenge ~ ?th place**
+- **ECSC 24 - European Cyber Security Challenge ~ 8th place**
 
 ## Presentations 👨‍🏫
 
