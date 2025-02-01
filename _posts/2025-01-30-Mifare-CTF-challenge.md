@@ -26,4 +26,12 @@ First of all, you had to figure out that this is a trace file for a Mifare Class
 
 After spinning up proxmark3, load up the trace file and run `trace list -1 -t mf` to specify the type of nfc card that the trace belongs to. We're going to be greeted with some long output, but only the last part counts.
 
+![Proxmark3 Output](/images/_posts/Proxmark3-output.jpeg)
 
+After extracting those, we paste those into the tool alongside the encrypted blocks, which are just below the fields.
+
+![Recovered key](/images/_posts/Recovered-key.jpeg)
+
+Finally, with the decrypted communication we just paste this into cyberchef to decrypt the hex data and then we got ourselves the flag.
+
+![image](https://github.com/user-attachments/assets/a756894a-3426-49ff-a5be-6cc072a1d906)
