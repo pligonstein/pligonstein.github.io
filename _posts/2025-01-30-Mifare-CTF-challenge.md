@@ -32,6 +32,6 @@ After extracting those, we paste those into the tool alongside the encrypted blo
 
 ![Recovered key](/images/_posts/Recovered-key.jpeg)
 
-Finally, with the decrypted communication we just paste this into cyberchef to decrypt the hex data and then we got ourselves the flag.
+Finally, with the decrypted communication we just paste this into cyberchef to decrypt the hex data and we got ourselves the flag.
 
 ![image](https://github.com/user-attachments/assets/a756894a-3426-49ff-a5be-6cc072a1d906)
