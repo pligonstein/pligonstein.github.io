@@ -28,6 +28,10 @@ The [code](https://github.com/Vlad-Bobeica/the-new-oikoumene) used to calculate 
 
 ## **Ulysses Design**
 
+![NSS Gif](/images/_posts/NSS-5.gif)
+
+#### **Sketches**
+
 ![NSS Image 1](/images/_posts/NSS-1.jpg)
 
 ![NSS Image 2](/images/_posts/NSS-2.jpg)
@@ -35,5 +39,3 @@ The [code](https://github.com/Vlad-Bobeica/the-new-oikoumene) used to calculate 
 ![NSS Image 3](/images/_posts/NSS-3.jpg)
 
 ![NSS Image 4](/images/_posts/NSS-4.jpg)
-
-![NSS Gif](/images/_posts/NSS-5.gif)
