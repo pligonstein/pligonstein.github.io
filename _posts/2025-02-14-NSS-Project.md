@@ -30,7 +30,7 @@ The [code](https://github.com/Vlad-Bobeica/the-new-oikoumene) used to calculate 
 
 ![NSS Gif](/images/_posts/NSS-5.gif)
 
-#### **Sketches**
+### **Sketches**
 
 ![NSS Image 1](/images/_posts/NSS-1.jpg)
 
