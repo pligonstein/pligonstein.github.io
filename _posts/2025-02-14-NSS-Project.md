@@ -10,7 +10,7 @@ date: 2025-02-14
 categories: blog
 ---
 
-## Summary
+## **Summary**
 
 According to Homer, approximately 3200 years ago (in 1180 BC), flames lit up the city of Troy,
 symbolizing the win of the Greeks and the triumph of the unrivaled hero, Ulysses. With his quest
