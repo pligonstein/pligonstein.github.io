@@ -12,8 +12,6 @@ categories: blog
 
 ## **Summary**
 
-[Project](https://drive.google.com/file/d/1SDjtNmxB_aZKwmM5RAnyd05W2t_vC9AB/view?usp=sharing)
-
 According to Homer, approximately 3200 years ago (in 1180 BC), flames lit up the city of Troy,
 symbolizing the win of the Greeks and the triumph of the unrivaled hero, Ulysses. With his quest
 ended, little did he know that his journey hadn’t even started yet. In the following 10 years, the king
@@ -21,10 +19,10 @@ of Ithaca would encounter several obstacles while sailing through Greece’s mai
 storms, fighting Cyclops, resisting the witch Circe’s magic as well as the sirens and many more. The
 powerful determination to return home after rightfully completing his mission is what keeps
 Ulysses alive in our minds as a symbol of resilience and perseverance, as well as what bounded us to
-use his name for a glorious and one-of-a-kind project which will continue his legacy: The Ulysses
+use his name for a glorious and one-of-a-kind project which will continue his legacy: The [Ulysses](https://drive.google.com/file/d/1SDjtNmxB_aZKwmM5RAnyd05W2t_vC9AB/view?usp=sharing)
 Space Settlement.
 
-## Extras
+## **Extras**
 
 The [code](https://github.com/Vlad-Bobeica/the-new-oikoumene) used to calculate various components necessary for the construction of a space settlement, ensuring structural integrity and optimal performance in space environments.
 
