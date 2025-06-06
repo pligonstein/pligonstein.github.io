@@ -42,11 +42,17 @@ permalink: /achievements/
 ### **2024**
 
 - **Applied Informatics Olympiad ~ AcadNet Computers section - silver** 🥈
-- **Cybersecurity Olympiad - Honorable Mention(not my proudest achievement 😔)**
+- **Cybersecurity Olympiad - Honorable Mention**
 - **Unbreakable Romania(Teams) 24 ~ 1st place overall(both high school and general division)** 🥇
 - **CyberHackDays 24 - 3rd place(Teams, but played solo 😎)** 🥉
 - **ROCSC 24 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
 - **ECSC 24 - European Cyber Security Challenge ~ 8th place**
+
+### **2025**
+
+- **Cybersecurity Olympiad - Honorable Mention**
+- **Unbreakable Romania(Teams) 25 ~ 2st place high school**
+- **ROCSC25 - Romanian Cyber Security Challenge ~ 3rd place Junior Division**
 
 ## Presentations 👨‍🏫
 
