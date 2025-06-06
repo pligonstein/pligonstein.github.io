@@ -51,7 +51,7 @@ permalink: /achievements/
 ### **2025**
 
 - **Cybersecurity Olympiad - Honorable Mention**
-- **Unbreakable Romania(Teams) 25 ~ 2st place high school**
+- **Unbreakable Romania(Teams) 25 ~ 2nd place high school**
 - **ROCSC25 - Romanian Cyber Security Challenge ~ 3rd place Junior Division**
 
 ## Presentations 👨‍🏫
