@@ -47,7 +47,7 @@ permalink: /achievements/
 - **CyberHackDays 24 - 3rd place(Teams, but played solo 😎)** 🥉
 - **ROCSC 24 - Romanian Cyber Security Challenge finalist(Qualified to bootcamp)**
 - **ECSC 24 - European Cyber Security Challenge ~ 8th place**
-- **Decode and Conquer: Forensics CTF Challenge - 1st Place**
+- **Decode and Conquer: Forensics CTF Challenge - 1st Place** 🥇
 
 ### **2025**
 
