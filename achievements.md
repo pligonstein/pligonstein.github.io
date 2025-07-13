@@ -20,6 +20,7 @@ permalink: /achievements/
 - **eCDFP(eLearnSecurity Certified Digital Forensics Professional)** - Received in 2023 -> [See here](https://verified.elearnsecurity.com/certificates/5ede628d-fa73-4da1-80e1-4ed8b07ef8c2)
 - **BTL1(Blue Team Level 1)** - Received in 2023 -> [See here](https://elearning.securityblue.team/home/certificate/330256872)
 - **PJPT(Practical Junior Penetration Tester)** - Received in 2024 -> [See here](https://certified.tcm-sec.com/d2bbf8a0-e60e-4a99-96ad-136119e856b7)
+- **PNPT(Practical Network Penetration Tester)** - Received in 2025 -> [See here](https://certified.tcm-sec.com/0914af8b-cdc7-4056-8808-241fecbee2fd)
 
 ## Awards 🏅
 
