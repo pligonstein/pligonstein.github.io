@@ -11,6 +11,7 @@ permalink: /achievements/
 ## Work Experience 🖥️
 
 - **Junior Penetration Tester - Fort (sep. 2022 -> sep. 2024)**
+- **Information Security Analyst - Adobe (sep. 2025 -> present)**
 
 ## Certifications 📃
 
