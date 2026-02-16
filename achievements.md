@@ -63,3 +63,4 @@ permalink: /achievements/
 
 - **Unbreakable Romania 24 Mentorship** -> [Link Here](https://www.youtube.com/watch?v=RkZTLqT3w7g)
 - **ProTV(Promoted the National Cybersecurity Competition)** -> [Link Here](https://stirileprotv.ro/stiri/ilikeit/tinerii-pasionati-de-securitate-cibernetica-pot-participa-gratuit-la-un-concurs-de-gasit-vulnerabilitati-premii-in-bani.html)
+- **DefCamp - Trust No Format: Risks and Defenses for ML Model Serialization**
