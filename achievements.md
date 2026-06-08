@@ -62,6 +62,7 @@ permalink: /achievements/
 
 ## Presentations 👨‍🏫
 
-- **DefCamp Conference - Trust No Format: Risks and Defenses for ML Model Serialization**
-- **Unbreakable Romania 24 Mentorship** -> [Link Here](https://www.youtube.com/watch?v=RkZTLqT3w7g)
 - **ProTV(Promoted the National Cybersecurity Competition)** -> [Link Here](https://stirileprotv.ro/stiri/ilikeit/tinerii-pasionati-de-securitate-cibernetica-pot-participa-gratuit-la-un-concurs-de-gasit-vulnerabilitati-premii-in-bani.html)
+- **Unbreakable Romania 24 Mentorship** -> [Link Here](https://www.youtube.com/watch?v=RkZTLqT3w7g)
+- **DefCamp Conference - Trust No Format: Risks and Defenses for ML Model Serialization** -> [Link Here](https://www.youtube.com/watch?v=tVIYuSRAbf8)
+- **BSides SLC 26 - Trust No Format: Risks and Defenses for ML Model Serialization** -> [Link Here](https://www.youtube.com/watch?v=5wH2gcMGbSM)
