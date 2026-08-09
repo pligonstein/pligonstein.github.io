@@ -24,6 +24,7 @@ permalink: /achievements/
 - **PNPT(Practical Network Penetration Tester)** - Received in 2025 -> [See here](https://certified.tcm-sec.com/0914af8b-cdc7-4056-8808-241fecbee2fd)
 - **OSDA(OffSec Defense Analyst)** - Received in 2026 -> [See here](https://credentials.offsec.com/a53c1b1d-be9f-45b2-9687-4cc205adcfba#acc.LwcPD3Ce)
 - **OSCP+(OffSec Certified Professional+)** - Received in 2026 -> [See here](https://credentials.offsec.com/95a2320f-2ad8-41e6-9d30-c57b545be0fa#acc.QWVUgAwJ)
+- **OSWE(Offsec Web Expert)** - Received in 2026 -> [See Here](https://credentials.offsec.com/fce20206-2a5a-4c38-8dd2-6c7914f81f92#acc.96sPvcaf)
 
 ## Awards 🏅
 
